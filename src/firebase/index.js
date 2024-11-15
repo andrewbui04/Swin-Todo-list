@@ -6,12 +6,12 @@ import { getAuth } from "firebase/auth";
 import { getFirestore } from "firebase/firestore"; // Import Firestore
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyCCRDsJkcvvv3YaS6eQ6an3phq5IXaoUos",
-  authDomain: "swin-todo-list.firebaseapp.com",
-  projectId: "swin-todo-list",
-  storageBucket: "swin-todo-list.appspot.com",
-  messagingSenderId: "825889524218",
-  appId: "1:825889524218:web:1ac53f6430c152557c7c43"
+  apiKey: "self_create",
+  authDomain: "self_create",
+  projectId: "self_create",
+  storageBucket: "self_create",
+  messagingSenderId: "self_create",
+  appId: "self_create"
 };
 
 // Initialize Firebase
